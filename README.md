@@ -22,7 +22,7 @@ More Screenshots [1](https://github.com/hutchgrant/hosting-reseller/raw/master/s
 ## Manual Install
 
 ```
-git clone https://github.com/hutchgrant/hosting-reseller.git
+git clone https://github.com/expired-brain/hosting-reseller.git
 cd hosting-reseller
 sudo npm install bower nodemon -g
 npm install
